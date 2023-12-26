@@ -22,7 +22,7 @@ To use the Solana Sniper, you will need the following:
     pip install -r requirements.txt
     ```
 
-3. Configure the Solana Sniper by editing the `config.py` file. Set your wallet private key or a json file of your keypair, Telegram API keys, and other necessary parameters.
+3. Configure the Solana Sniper by editing the `./data/config.py` file. Set your wallet private key or a json file of your keypair, Telegram API keys, and other necessary parameters.
 
 4. Run the Solana Sniper:
     ```shell
