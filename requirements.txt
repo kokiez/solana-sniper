@@ -1,0 +1,7 @@
+base58==2.1.1
+construct==2.10.68
+Requests==2.31.0
+solana==0.30.2
+solders==0.18.1
+spl==0.0.1.dev0
+Telethon==1.33.0
