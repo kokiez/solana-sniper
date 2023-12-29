@@ -15,11 +15,11 @@ To use the Solana Sniper, you will need the following:
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository and move to the directory:
     ```shell
     git clone https://github.com/kokiez/solana-sniper.git
+    cd solana-sniper
     ```
-
 2. Install the required dependencies:
     ```shell
     pip install -r requirements.txt
