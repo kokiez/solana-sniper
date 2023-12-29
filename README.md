@@ -49,6 +49,7 @@ Happy trading with the Solana Sniper!
 ## Proof of its working
 
 **Note**: The result is a bit different from the version in github (prices are changed to worth) as I work on the bot everyday almost to improve it. 
+
 ![1](https://github.com/kokiez/solana-sniper/assets/105941365/2131ce16-1b5c-4cd2-8838-ff0427edbd71)
 ![2](https://github.com/kokiez/solana-sniper/assets/105941365/f54fb612-23de-4db1-85f2-39ded1ccc516)
 
