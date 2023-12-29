@@ -37,14 +37,6 @@ If you find the Solana Sniper useful, consider making a donation to support its 
 
 Solana Wallet Address: `KoqQCqxD2ca1St64U4Sc3tBnNfXo6761dETUK4dSpDt`
 
-## FAQS
-### 1. How to install requirements?
-Each OS is different from mine, I cannot assist you and guide you step by step on how to install requirements... In the current world, chatgpt exists, you may ask chatgpt such questions. Its simple run the command, if you get error then read it and try to understand what the error is saying or check the error on chatgpt.
-### 2. Program did not show up anything and stopped!
-Most likely your config.ini is missing, you have to put the right data in it e.g. Required sections are [TELEGRAM], [DISCORD], [WALLET] and [INFURA_URL]
-### 3. What is senderUserNames in config.ini section TELEGRAM?
-It is the username of channel where the tokens are pasted, the bot would like to know those usernames and then snipe the tokens.
-
 ## Contact
 
 For any business inquiries or support, please reach out to us:
@@ -54,3 +46,17 @@ For any business inquiries or support, please reach out to us:
 
 Happy trading with the Solana Sniper!
 
+## Proof of its working
+
+**Note**: The result is a bit different from the version in github (prices are changed to worth) as I work on the bot everyday almost to improve it. 
+![1](https://github.com/kokiez/solana-sniper/assets/105941365/2131ce16-1b5c-4cd2-8838-ff0427edbd71)
+![2](https://github.com/kokiez/solana-sniper/assets/105941365/f54fb612-23de-4db1-85f2-39ded1ccc516)
+
+
+## FAQS
+### 1. How to install requirements?
+Each OS is different from mine, I cannot assist you and guide you step by step on how to install requirements... In the current world, chatgpt exists, you may ask chatgpt such questions. Its simple run the command, if you get error then read it and try to understand what the error is saying or check the error on chatgpt.
+### 2. Program did not show up anything and stopped!
+Most likely your config.ini is missing, you have to put the right data in it e.g. Required sections are [TELEGRAM], [DISCORD], [WALLET] and [INFURA_URL]
+### 3. What is senderUserNames in config.ini section TELEGRAM?
+It is the username of channel where the tokens are pasted, the bot would like to know those usernames and then snipe the tokens.
