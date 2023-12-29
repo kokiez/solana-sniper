@@ -50,6 +50,7 @@ It is the username of channel where the tokens are pasted, the bot would like to
 For any business inquiries or support, please reach out to us:
 
 - Discord: `kokiez4000`
+- Telegram: `kokiez4000`
 
 Happy trading with the Solana Sniper!
 
