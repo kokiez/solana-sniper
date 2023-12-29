@@ -10,7 +10,8 @@ To use the Solana Sniper, you will need the following:
 - A Solana wallet with sufficient funds for trading.
 - Access to Telegram channels for receiving trade signals.
 - Discord Webhook urls.
-- telegram bot api keys.
+- Telegram bot api keys.
+- Solana RPC Provider's HTTPS URL
 
 ## Getting Started
 
