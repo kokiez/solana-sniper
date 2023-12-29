@@ -7,7 +7,7 @@ The Solana Sniper is a powerful Python-based tool designed to automate the proce
 To use the Solana Sniper, you will need the following:
 
 - Python 3.x installed on your machine.
-- A Solana wallet with sufficient funds for trading.
+- A Solana wallet with sufficient funds for trading and must have the private key in the form of alphanumeric string.
 - Access to Telegram channels for receiving trade signals.
 - Discord Webhook urls.
 - Telegram bot api keys.
