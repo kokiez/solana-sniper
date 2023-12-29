@@ -16,7 +16,7 @@ To use the Solana Sniper, you will need the following:
 
 1. Clone the repository:
     ```shell
-    git clone https://github.com/your-username/solana-sniper.git
+    git clone https://github.com/kokiez/solana-sniper.git
     ```
 
 2. Install the required dependencies:
