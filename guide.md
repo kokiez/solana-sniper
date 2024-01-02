@@ -2,7 +2,7 @@
 
 ## Chapter 1: Install the requirements.
 1. Install `Python`. The version for python does not matter as long as it is above **3.0**.
-2. Run the command `pip install -r requirements.txt` (Note: your machine might have `python3` and `pip3`).
+2. Run the command `pip install -r requirements.txt` (Note: you machine might have `python3` and `pip3`).
 3. If you get errors while installing, please copy and paste the error in chatgpt. **DO NOT Text ME THE ERROR**. Github is a developers community and you must know the basics already.
 
 ## Chapter 2: Config file.
@@ -19,24 +19,26 @@
 6. **Sender Username**, it is the username of channels from where you will receive. Note that the sender in the channel is most likely having the same username as channel username. An example is given below:
 ![Example1](https://i.ibb.co/Cvqtbhx/Screenshot-2024-01-02-233151.png)
 
-## Chapter 3: Investment
+## Section 2: Investment
 -  Config.ini already has description due to which I wont write about it here.
 
-## Chapter 4: DISCORD Webhook URls
+## Section 3: DISCORD Webhook URls
 - You may skip it, but in order to get updates from bot while it is running. This is the best option.
 1. Create a discord server, goto channel settings, goto integrations and create a webhook. Copy the url and add it to config file.
 
-## Chapter 5: Wallet Key
+## Section 4: Wallet Key
 - Every wallet has different settings. With intention of testing this bot, you must already have this information.
 - But when you get the key, it may look something like this `asuhduiahsw812y98dajsdui172yashduiahsuidh11sjhdahduiashduh1892hdhsuahdh199d89hashANDSO1ON`
 
-## Chapter 6: Birdeye
+## Section 4: Birdeye
 **Skip**
 
-## Chapter 7: INFURA URL
+## Section 5: INFURA URL
 1. Goto alchemy and create your endpoint for solana. Copy the https url and add it to config.ini
 
-## Final
+## Finally
 1. You can create a test channel and add the username to config.ini to test the bot.
 2. Run `python main.py`.
 3. It will display **Message Received** if telethon is working and CA will show up if the **senderusernames are correct**.
+
+## Happy Trading 🎉
