@@ -55,6 +55,9 @@ Happy trading with the Solana Sniper!
 ![2](https://github.com/kokiez/solana-sniper/assets/105941365/f54fb612-23de-4db1-85f2-39ded1ccc516)
 
 
+## Contributors:
+- Update CA pattern: [Moka51](https://github.com/Moka51)
+
 ## FAQS
 ### 1. How to install requirements?
 Each OS is different from mine _(e.g. amount/types of garbage in my OS)_, I cannot assist you and guide you step by step on how to install requirements... In the current world, chatgpt exists, you may ask chatgpt such questions. Its simple run the command, if you get error then read it and try to understand what the error is saying or check the error on chatgpt.
