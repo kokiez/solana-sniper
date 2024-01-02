@@ -2,7 +2,7 @@
 
 ## Chapter 1: Install the requirements.
 1. Install `Python`. The version for python does not matter as long as it is above **3.0**.
-2. Run the command `pip install -r requirements.txt` (Note: you machine might have `python3` and `pip3`).
+2. Run the command `pip install -r requirements.txt` (Note: your machine might have `python3` and `pip3`).
 3. If you get errors while installing, please copy and paste the error in chatgpt. **DO NOT Text ME THE ERROR**. Github is a developers community and you must know the basics already.
 
 ## Chapter 2: Config file.
