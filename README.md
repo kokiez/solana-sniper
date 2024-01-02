@@ -21,17 +21,9 @@ To use the Solana Sniper, you will need the following:
     git clone https://github.com/kokiez/solana-sniper.git
     cd solana-sniper
     ```
-2. Install the required dependencies:
-    ```shell
-    pip install -r requirements.txt
-    ```
+2. Read it here in detail, [CLick me](https://github.com/kokiez/solana-sniper/blob/main/guide.md)
 
-3. Configure the Solana Sniper by editing the `./data/config.py` file. Set your wallet private key or a json file of your keypair, Telegram API keys, and other necessary parameters. Each of the required item has a description written in config file, if you do not fill the config.ini correctly, the sniper may crash or not work at all.
 
-4. Run the Solana Sniper:
-    ```shell
-    python main.py
-    ```
 ## Donations
 
 If you find the Solana Sniper useful, consider making a donation to support its development and maintenance. Your contribution will help us continue to improve the tool and add new features.
