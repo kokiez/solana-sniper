@@ -42,7 +42,7 @@ session_name = config.get("TELEGRAM", "session_name")
 api_id = config.getint("TELEGRAM", "API_ID")
 api_hash = config.get("TELEGRAM", "API_HASH")
 discord_msg_pattern = r'https?://birdeye\.so/token/(\w+)\?chain=solana'
-CA_pattern = r"\b[0-9a-zA-Z]{40,}\b"
+CA_pattern = r'[1-9A-HJ-NP-Za-km-z]{32,44}'
 
 # Infura settings - register at infura and get your mainnet url.
 RPC_HTTPS_URL = config.get("INFURA_URL", "infuraURL")
