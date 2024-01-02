@@ -21,7 +21,7 @@ To use the Solana Sniper, you will need the following:
     git clone https://github.com/kokiez/solana-sniper.git
     cd solana-sniper
     ```
-2. Read it here in detail, [CLick me](https://github.com/kokiez/solana-sniper/blob/main/guide.md)
+2. Read it here in detail, [Click me](https://github.com/kokiez/solana-sniper/blob/main/guide.md)
 
 
 ## Donations
