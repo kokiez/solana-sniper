@@ -49,11 +49,3 @@ Happy trading with the Solana Sniper!
 
 ## Contributors:
 - Update CA pattern: [Moka51](https://github.com/Moka51)
-
-## FAQS
-### 1. How to install requirements?
-Each OS is different from mine _(e.g. amount/types of garbage in my OS)_, I cannot assist you and guide you step by step on how to install requirements... In the current world, chatgpt exists, you may ask chatgpt such questions. Its simple run the command, if you get error then read it and try to understand what the error is saying or check the error on chatgpt.
-### 2. Program did not show up anything and stopped!
-Most likely your config.ini is missing, you have to put the right data in it e.g. Required sections are [TELEGRAM], [DISCORD], [WALLET] and [INFURA_URL]
-### 3. What is senderUserNames in config.ini section TELEGRAM?
-It is the username of channel where the tokens are pasted, the bot would like to know those usernames and then snipe the tokens.
