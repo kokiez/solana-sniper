@@ -26,7 +26,7 @@ To use the Solana Sniper, you will need the following:
 
 ## Donations
 
-If you find the Solana Sniper useful, consider making a donation to support its development and maintenance. Your contribution will help us continue to improve the tool and add new features.
+If you find the Solana Sniper useful, consider making a donation:
 
 Solana Wallet Address: `KoqQCqxD2ca1St64U4Sc3tBnNfXo6761dETUK4dSpDt`
 
