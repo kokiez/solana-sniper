@@ -34,6 +34,8 @@ Solana Wallet Address: `KoqQCqxD2ca1St64U4Sc3tBnNfXo6761dETUK4dSpDt`
 
 For any business inquiries or support, please reach out to us:
 
+**NOTE:** I do not develop any tools related to illegal activites e.g. Rug pull liquidity removers or Volume Boosters.
+
 - Discord: `kokiez4000`
 - Telegram: `kokiez4000`
 
