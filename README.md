@@ -24,12 +24,6 @@ To use the Solana Sniper, you will need the following:
 2. Read it here in detail, [Click me](https://github.com/kokiez/solana-sniper/blob/main/guide.md)
 
 
-## Donations
-
-If you find the Solana Sniper useful, consider making a donation:
-
-Solana Wallet Address: `KoqQCqxD2ca1St64U4Sc3tBnNfXo6761dETUK4dSpDt`
-
 ## Contact
 
 For any business inquiries or support, please reach out to us:
